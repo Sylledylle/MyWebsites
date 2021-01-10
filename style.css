@@ -1,0 +1,28 @@
+body {
+  background-color: #ffff; /* white */
+}
+
+#GoodMemes1 { 	
+  text-align: center;
+  color: red;
+}
+
+#InfTxt1 { 	
+  font-size:25px; 	
+  text-align: center;
+  color: black;
+}
+
+#Meme {
+    margin-bottom: 20px;
+}
+
+#InfTxt1 {
+  display: inline; /* the default for span */
+  width: 100px;
+  height: 100px;
+  padding: 5px;
+  border: 1px none;
+  background-color:#f44336; /* green */
+}
+
